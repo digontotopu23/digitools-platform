@@ -3,9 +3,8 @@ import { toast } from "react-toastify";
 
 const Cart = ({ cartItem, setCartItem }) => {
   const totalPrice = cartItem.reduce(
-    (total, product) => total + product.price,
-    0,
-  );
+    (total, product) => total + (product.price),
+    0,);
 
   const handleRemoveBtn = (product) => {
     const remainingItems = cartItem.filter((item) => item.id !== product.id);
