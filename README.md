@@ -33,22 +33,17 @@ Add screenshots or GIFs here to showcase your app visually:
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**  
+1. **Clone the repository:**
 ```bash
-git clone https://github.com/digontotopu23/digitools-platform
+git clone https://github.com/digontotopu23/digitools-platform.git
 
 
-2.**Navigate to the project folder:**
-```bash
-cd digitools-platform
+ cd digitools-platform
 
+ 
 
-3.**Install dependencies:**
-```bash
 npm install
 
 
-4.**Run the development server:**
-```bash
-npm run dev
 
+npm run dev
