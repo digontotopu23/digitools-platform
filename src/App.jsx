@@ -4,7 +4,7 @@ import NavBar from './component/NavBar';
 import Banner from './component/Banner';
 import Achievements from './component/Achievements';
 
-
+import HowItWorks from './component/HowItWorks';
 import CTA  from './component/CTA';
 import Footer from './component/Footer';
 import { useState } from 'react'
@@ -19,7 +19,7 @@ function App() {
       <Achievements/>
 
 
-       
+       <HowItWorks/>
        <CTA/>        
        <Footer/>
     </div>
