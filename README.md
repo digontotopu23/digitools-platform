@@ -1,16 +1,51 @@
-# React + Vite
+ # 🌟 DigiTools Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium digital tools platform that helps creators, professionals, and businesses supercharge their workflow with AI-powered tools, templates, and productivity software—all in one place.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technology Stack
 
-## React Compiler
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+- ![React-Toastify](https://img.shields.io/badge/React--Toastify-FF69B4?logo=react&logoColor=white)
+- ![JSON](https://img.shields.io/badge/JSON-F8D210?logo=json&logoColor=black)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ **Premium Digital Products** – Curated AI tools, templates, and productivity assets.  
+- 🛒 **Shopping Cart** – Add, remove, and checkout products with smooth notifications.  
+- 💰 **Transparent Pricing** – Simple, clear pricing plans with popular plan highlights.
+
+---
+
+## 📸 Demo
+
+Add screenshots or GIFs here to showcase your app visually:
+
+![Banner](./src/assets/images/banner.png)  
+![Products](./src/assets/images/product.png)  
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**  
+```bash
+git clone https://github.com/digontotopu23/digitools-platform
+
+2.**Navigate to the project folder:**
+
+cd digitools-platform
+
+3.**Install dependencies:**
+
+npm install
+
+4.**Run the development server:**
+
+npm run dev
+
