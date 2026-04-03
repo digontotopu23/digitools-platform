@@ -32,7 +32,7 @@ const Banner = () => {
           </button>
         </div>
       </div>
-      <div>
+      <div className="overflow-hidden">
         <img className="md:w-full" src={bannerImg} alt="Banner" />
       </div>
     </div>
