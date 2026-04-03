@@ -1,6 +1,7 @@
 import './App.css'
  
-import NavBar from './component/NavBar'
+import NavBar from './component/NavBar';
+import Banner from './component/Banner';
 
 import { useState } from 'react'
 
@@ -10,6 +11,8 @@ function App() {
   return (
     <>
       <NavBar cartItem={cartItem}/>
+      <Banner/>
+      
        
     </>
   )
