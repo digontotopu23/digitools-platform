@@ -27,7 +27,7 @@ A premium digital tools platform that helps creators, professionals, and busines
 Add screenshots or GIFs here to showcase your app visually:
 
 ![Banner](./src/assets/images/banner.png)  
-![Products](./src/assets/images/product.png)  
+![Products](./src/assets/images/package.png)  
 
 ---
 
@@ -37,13 +37,18 @@ Add screenshots or GIFs here to showcase your app visually:
 ```bash
 git clone https://github.com/digontotopu23/digitools-platform.git
 
+___
 
+2.Navigate to the project directory:
  cd digitools-platform
 
- 
+___
 
+3.Install dependencies:
 npm install
 
 
+___
 
+4.Run the development server:
 npm run dev
