@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "AI Writing Pro",
+    "icon": "https://img.icons8.com/?size=100&id=QanbId3SGVR7&format=png&color=000000",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "billing": "/Mo",
+    "badge": "Best Seller",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ],
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 2,
+    "title": "Design Templates Pack",
+    "icon": "https://img.icons8.com/?size=100&id=HS0qoeHy4RkQ&format=png&color=000000",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+    "price": 49,
+    "billing": "/One-Time",
+    "badge": "Popular",
+    "features": ["2000+ templates", "Monthly updates", "Commercial license"],
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 3,
+    "title": "Premium Stock Assets",
+    "icon": "https://img.icons8.com/?size=100&id=43979&format=png&color=000000",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "price": 19,
+    "billing": "/Mo",
+    "badge": "New",
+    "features": ["10M+ assets", "Commercial use", "No attribution"],
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 4,
+    "title": "Automation Toolkit",
+    "icon": "https://img.icons8.com/?size=100&id=ve4jBhVVCEkn&format=png&color=000000",
+    "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
+    "price": 79,
+    "billing": "/Mo",
+    "badge": "Popular",
+    "features": ["50+ automations", "API access", "Custom workflows"],
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 5,
+    "title": "Resume Builder Pro",
+    "icon": "https://img.icons8.com/?size=100&id=4rzOerPFTcOo&format=png&color=000000",
+    "description": "Create professional resumes and cover letters that land interviews.",
+    "price": 15,
+    "billing": "/One-Time",
+    "badge": "New",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 6,
+    "title": "Social Media Content Kit",
+    "icon": "https://img.icons8.com/?size=100&id=Um7pKnbULypU&format=png&color=000000",
+    "description": "Complete toolkit for creating engaging social media content across all platforms.",
+    "price": 39,
+    "billing": "/Mo",
+    "badge": "Best Seller",
+    "features": ["5000+ assets", "Scheduler included", "Analytics dashboard"],
+    "buttonText": "Buy Now"
+  }
+]
